@@ -1,9 +1,7 @@
 package log;
 
-
 public class logger extends LogicClass {
-	public logger() {
-	}
+	public logger() { }// constructor default
 
 	public logger(boolean Writing, boolean typeOff, boolean ValueOff,
 			boolean counterOff, boolean Counter, boolean Method, boolean Frameon) {
